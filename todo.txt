@@ -1,0 +1,22 @@
+******* TODO *******
+IMPORTANT
+- Add filteration by year
+- Create an array for the watchlist
+- Create minute to hours conversion
+- Handle N/A for poster
+- Remove from watchlist
+- Hide API
+
+LATER
+- Add info pages for each entertainment card
+- Add pagination
+- Fix the dropdown onclick JS
+- Handle N/A for runtime
+- Make watchlist badge hidden again
+- sticky footer (some code in css commented out)
+- Fix card layout and add star icon to add button
+
+FANCY FEATURES
+- Authentication
+- Connection to streaming services
+
